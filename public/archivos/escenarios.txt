@@ -1,0 +1,12 @@
+room_1,room_1.png,Habitacion de descanso
+living_1,living_1.png,Sala de estar
+cocina_1,cocina_1.png,Cocina
+baño_1,baño_1.png,Baño
+room_2,room_2.png,Habitacion de descanso
+living_2,living_2.png,Sala de estar
+cocina_2,cocina_2.png,Cocina
+baño_2,baño_2.png,Baño
+room_3,room_3.png,Habitacion de descanso
+living_3,living_3.png,Sala de estar
+cocina_3,cocina_3.png,Cocina
+baño_3,baño_3.png,Baño

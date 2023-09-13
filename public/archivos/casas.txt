@@ -1,0 +1,3 @@
+casa1,casa_1.png,Casa de Mauricio
+casa2,casa_2.png,Casa de Patricia
+casa3,casa_3.png,Casa de Laura

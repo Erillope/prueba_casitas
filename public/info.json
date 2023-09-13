@@ -1,0 +1,551 @@
+[
+ {
+  "descripcion": "Casa de Mauricio",
+  "ruta_imagen": "casa_1.png",
+  "nombre": "casa1",
+  "escenarios": [
+   {
+    "descripcion": "Habitacion de descanso",
+    "ruta_imagen": "room_1.png",
+    "nombre": "room_1",
+    "objetos": [
+     {
+      "descripcion": "Osito de peluche infantil",
+      "ruta_imagen": "osito.png",
+      "nombre": "osito",
+      "id": "0",
+      "precio": 5.3,
+      "pos": [
+       335,
+       415
+      ],
+      "escenario": "room_1"
+     },
+     {
+      "descripcion": "10 dolares en efectivo",
+      "ruta_imagen": "dinero.png",
+      "nombre": "dinero10",
+      "id": "1",
+      "precio": 10.0,
+      "pos": [
+       864,
+       45
+      ],
+      "escenario": "room_1"
+     },
+     {
+      "descripcion": "20 dolares en efectivo",
+      "ruta_imagen": "dinero.png",
+      "nombre": "dinero20",
+      "id": "2",
+      "precio": 20.0,
+      "pos": [
+       699,
+       228
+      ],
+      "escenario": "room_1"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Sala de estar",
+    "ruta_imagen": "living_1.png",
+    "nombre": "living_1",
+    "objetos": [
+     {
+      "descripcion": "Iphon ultima generacion",
+      "ruta_imagen": "celular.png",
+      "nombre": "celular",
+      "id": "3",
+      "precio": 150.0,
+      "pos": [
+       451,
+       7
+      ],
+      "escenario": "living_1"
+     },
+     {
+      "descripcion": "Rica coquita",
+      "ruta_imagen": "cola.png",
+      "nombre": "coca cola",
+      "id": "4",
+      "precio": 0.0,
+      "pos": [
+       722,
+       141
+      ],
+      "escenario": "living_1"
+     },
+     {
+      "descripcion": "Pantalla alta resolucion",
+      "ruta_imagen": "pantalla.png",
+      "nombre": "pantalla",
+      "id": "5",
+      "precio": 200.0,
+      "pos": [
+       3,
+       300
+      ],
+      "escenario": "living_1"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Cocina",
+    "ruta_imagen": "cocina_1.png",
+    "nombre": "cocina_1",
+    "objetos": [
+     {
+      "descripcion": "100 dolares en efectivo",
+      "ruta_imagen": "dinero.png",
+      "nombre": "dinero100",
+      "id": "6",
+      "precio": 100.0,
+      "pos": [
+       764,
+       500
+      ],
+      "escenario": "cocina_1"
+     },
+     {
+      "descripcion": "Rica coquita",
+      "ruta_imagen": "cola.png",
+      "nombre": "coca cola",
+      "id": "7",
+      "precio": 0.0,
+      "pos": [
+       419,
+       196
+      ],
+      "escenario": "cocina_1"
+     },
+     {
+      "descripcion": "Poster firmado por una celebridad. Su precio podria ser invaluable",
+      "ruta_imagen": "poster.png",
+      "nombre": "poster firmado",
+      "id": "8",
+      "precio": 0.0,
+      "pos": [
+       613,
+       227
+      ],
+      "escenario": "cocina_1"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Ba\u00f1o",
+    "ruta_imagen": "ba\u00f1o_1.png",
+    "nombre": "ba\u00f1o_1",
+    "objetos": [
+     {
+      "descripcion": "Escoba sucia",
+      "ruta_imagen": "escoba.png",
+      "nombre": "escoba",
+      "id": "9",
+      "precio": 1.0,
+      "pos": [
+       230,
+       374
+      ],
+      "escenario": "ba\u00f1o_1"
+     },
+     {
+      "descripcion": "10 dolares en efectivo",
+      "ruta_imagen": "dinero.png",
+      "nombre": "dinero10",
+      "id": "10",
+      "precio": 10.0,
+      "pos": [
+       767,
+       474
+      ],
+      "escenario": "ba\u00f1o_1"
+     },
+     {
+      "descripcion": "Osito de peluche infantil",
+      "ruta_imagen": "osito.png",
+      "nombre": "osito",
+      "id": "11",
+      "precio": 5.3,
+      "pos": [
+       380,
+       361
+      ],
+      "escenario": "ba\u00f1o_1"
+     }
+    ],
+    "id": null
+   }
+  ]
+ },
+ {
+  "descripcion": "Casa de Patricia",
+  "ruta_imagen": "casa_2.png",
+  "nombre": "casa2",
+  "escenarios": [
+   {
+    "descripcion": "Habitacion de descanso",
+    "ruta_imagen": "room_2.png",
+    "nombre": "room_2",
+    "objetos": [
+     {
+      "descripcion": "Poster firmado por una celebridad. Su precio podria ser invaluable",
+      "ruta_imagen": "poster.png",
+      "nombre": "poster firmado",
+      "id": "12",
+      "precio": 0.0,
+      "pos": [
+       401,
+       498
+      ],
+      "escenario": "room_2"
+     },
+     {
+      "descripcion": "Pantalla alta resolucion",
+      "ruta_imagen": "pantalla.png",
+      "nombre": "pantalla",
+      "id": "13",
+      "precio": 200.0,
+      "pos": [
+       943,
+       108
+      ],
+      "escenario": "room_2"
+     },
+     {
+      "descripcion": "Rica coquita",
+      "ruta_imagen": "cola.png",
+      "nombre": "coca cola",
+      "id": "14",
+      "precio": 0.0,
+      "pos": [
+       569,
+       377
+      ],
+      "escenario": "room_2"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Sala de estar",
+    "ruta_imagen": "living_2.png",
+    "nombre": "living_2",
+    "objetos": [
+     {
+      "descripcion": "Pantalla alta resolucion",
+      "ruta_imagen": "pantalla.png",
+      "nombre": "pantalla",
+      "id": "15",
+      "precio": 200.0,
+      "pos": [
+       380,
+       457
+      ],
+      "escenario": "living_2"
+     },
+     {
+      "descripcion": "Osito de peluche infantil",
+      "ruta_imagen": "osito.png",
+      "nombre": "osito",
+      "id": "16",
+      "precio": 5.3,
+      "pos": [
+       954,
+       200
+      ],
+      "escenario": "living_2"
+     },
+     {
+      "descripcion": "Escoba sucia",
+      "ruta_imagen": "escoba.png",
+      "nombre": "escoba",
+      "id": "17",
+      "precio": 1.0,
+      "pos": [
+       426,
+       219
+      ],
+      "escenario": "living_2"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Cocina",
+    "ruta_imagen": "cocina_2.png",
+    "nombre": "cocina_2",
+    "objetos": [
+     {
+      "descripcion": "Iphon ultima generacion",
+      "ruta_imagen": "celular.png",
+      "nombre": "celular",
+      "id": "18",
+      "precio": 150.0,
+      "pos": [
+       692,
+       367
+      ],
+      "escenario": "cocina_2"
+     },
+     {
+      "descripcion": "20 dolares en efectivo",
+      "ruta_imagen": "dinero.png",
+      "nombre": "dinero20",
+      "id": "19",
+      "precio": 20.0,
+      "pos": [
+       774,
+       155
+      ],
+      "escenario": "cocina_2"
+     },
+     {
+      "descripcion": "Rica coquita",
+      "ruta_imagen": "cola.png",
+      "nombre": "coca cola",
+      "id": "20",
+      "precio": 0.0,
+      "pos": [
+       385,
+       476
+      ],
+      "escenario": "cocina_2"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Ba\u00f1o",
+    "ruta_imagen": "ba\u00f1o_2.png",
+    "nombre": "ba\u00f1o_2",
+    "objetos": [
+     {
+      "descripcion": "Pantalla alta resolucion",
+      "ruta_imagen": "pantalla.png",
+      "nombre": "pantalla",
+      "id": "21",
+      "precio": 200.0,
+      "pos": [
+       16,
+       477
+      ],
+      "escenario": "ba\u00f1o_2"
+     },
+     {
+      "descripcion": "Poster firmado por una celebridad. Su precio podria ser invaluable",
+      "ruta_imagen": "poster.png",
+      "nombre": "poster firmado",
+      "id": "22",
+      "precio": 0.0,
+      "pos": [
+       745,
+       67
+      ],
+      "escenario": "ba\u00f1o_2"
+     },
+     {
+      "descripcion": "Rica coquita",
+      "ruta_imagen": "cola.png",
+      "nombre": "coca cola",
+      "id": "23",
+      "precio": 0.0,
+      "pos": [
+       228,
+       17
+      ],
+      "escenario": "ba\u00f1o_2"
+     }
+    ],
+    "id": null
+   }
+  ]
+ },
+ {
+  "descripcion": "Casa de Laura",
+  "ruta_imagen": "casa_3.png",
+  "nombre": "casa3",
+  "escenarios": [
+   {
+    "descripcion": "Habitacion de descanso",
+    "ruta_imagen": "room_3.png",
+    "nombre": "room_3",
+    "objetos": [
+     {
+      "descripcion": "Iphon ultima generacion",
+      "ruta_imagen": "celular.png",
+      "nombre": "celular",
+      "id": "24",
+      "precio": 150.0,
+      "pos": [
+       798,
+       325
+      ],
+      "escenario": "room_3"
+     },
+     {
+      "descripcion": "Pantalla alta resolucion",
+      "ruta_imagen": "pantalla.png",
+      "nombre": "pantalla",
+      "id": "25",
+      "precio": 200.0,
+      "pos": [
+       321,
+       49
+      ],
+      "escenario": "room_3"
+     },
+     {
+      "descripcion": "Poster firmado por una celebridad. Su precio podria ser invaluable",
+      "ruta_imagen": "poster.png",
+      "nombre": "poster firmado",
+      "id": "26",
+      "precio": 0.0,
+      "pos": [
+       994,
+       115
+      ],
+      "escenario": "room_3"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Sala de estar",
+    "ruta_imagen": "living_3.png",
+    "nombre": "living_3",
+    "objetos": [
+     {
+      "descripcion": "50 dolares en efectivo",
+      "ruta_imagen": "dinero.png",
+      "nombre": "dinero50",
+      "id": "27",
+      "precio": 50.0,
+      "pos": [
+       653,
+       416
+      ],
+      "escenario": "living_3"
+     },
+     {
+      "descripcion": "Rica coquita",
+      "ruta_imagen": "cola.png",
+      "nombre": "coca cola",
+      "id": "28",
+      "precio": 0.0,
+      "pos": [
+       300,
+       379
+      ],
+      "escenario": "living_3"
+     },
+     {
+      "descripcion": "Osito de peluche infantil",
+      "ruta_imagen": "osito.png",
+      "nombre": "osito",
+      "id": "29",
+      "precio": 5.3,
+      "pos": [
+       341,
+       245
+      ],
+      "escenario": "living_3"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Cocina",
+    "ruta_imagen": "cocina_3.png",
+    "nombre": "cocina_3",
+    "objetos": [
+     {
+      "descripcion": "Escoba sucia",
+      "ruta_imagen": "escoba.png",
+      "nombre": "escoba",
+      "id": "30",
+      "precio": 1.0,
+      "pos": [
+       970,
+       425
+      ],
+      "escenario": "cocina_3"
+     },
+     {
+      "descripcion": "Poster firmado por una celebridad. Su precio podria ser invaluable",
+      "ruta_imagen": "poster.png",
+      "nombre": "poster firmado",
+      "id": "31",
+      "precio": 0.0,
+      "pos": [
+       139,
+       240
+      ],
+      "escenario": "cocina_3"
+     },
+     {
+      "descripcion": "Iphon ultima generacion",
+      "ruta_imagen": "celular.png",
+      "nombre": "celular",
+      "id": "32",
+      "precio": 150.0,
+      "pos": [
+       627,
+       45
+      ],
+      "escenario": "cocina_3"
+     }
+    ],
+    "id": null
+   },
+   {
+    "descripcion": "Ba\u00f1o",
+    "ruta_imagen": "ba\u00f1o_3.png",
+    "nombre": "ba\u00f1o_3",
+    "objetos": [
+     {
+      "descripcion": "Rica coquita",
+      "ruta_imagen": "cola.png",
+      "nombre": "coca cola",
+      "id": "33",
+      "precio": 0.0,
+      "pos": [
+       267,
+       130
+      ],
+      "escenario": "ba\u00f1o_3"
+     },
+     {
+      "descripcion": "Osito de peluche infantil",
+      "ruta_imagen": "osito.png",
+      "nombre": "osito",
+      "id": "34",
+      "precio": 5.3,
+      "pos": [
+       624,
+       300
+      ],
+      "escenario": "ba\u00f1o_3"
+     },
+     {
+      "descripcion": "Escoba sucia",
+      "ruta_imagen": "escoba.png",
+      "nombre": "escoba",
+      "id": "35",
+      "precio": 1.0,
+      "pos": [
+       353,
+       320
+      ],
+      "escenario": "ba\u00f1o_3"
+     }
+    ],
+    "id": null
+   }
+  ]
+ }
+]

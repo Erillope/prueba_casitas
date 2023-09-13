@@ -1,0 +1,142 @@
+body {
+    background-image: url('http://localhost:3000/archivos/casa_1.png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div.bottonDiv{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+div.bottonDivLeft{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+
+div.topDiv{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+div.divText{
+    width: 700px;
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    background:linear-gradient(to right, #00000010,#00000070, #00000090, #00000070,#00000010);
+    margin-bottom: 20px;
+    
+}
+
+div.descripcion{
+    display: none;
+    width: 700px;
+    height: 200px;
+    position: fixed;
+    left: 50%;
+    bottom: 0px;
+    text-align: center;
+    transform: translateX(-50%);
+    background:#00000090;
+    margin-bottom: 200px;
+    border-radius: 10px;
+    border: 1px solid yellow;
+}
+
+div.buttonDiv{
+    position: fixed;
+    bottom: 10px;
+    align-items: center;
+    left: 50%;
+    transform: translateX(-50%);
+}
+p.text{
+    color:rgb(221, 228, 235);
+    letter-spacing: 1px;
+}
+
+button.myButton{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    cursor: pointer;
+}
+button.myButton:hover{
+    background-color:rgba(0, 0, 0, 0.5);
+}
+button.myButton2{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    cursor: pointer;
+}
+button.myButton2:hover{
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+button.myButton3{
+    color: white;
+    width: 100px;
+    height: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    cursor: pointer;
+}
+button.myButton3:hover{
+    background-color: #2980b9;
+}
+
+button.myButton3:disabled{
+    background-color: rgba(121, 120, 120, 0.3);
+}
+
+button.myButton3:disabled:hover{
+    background-color: rgba(121, 120, 120, 0.3);
+    cursor: default;
+}
+
+button.myButton4{
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 0, 0, 0.7));
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    cursor: pointer;
+}
+button.myButton4:hover{
+    filter: brightness(2);
+}
+
+img.myImage{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+img.myImage:hover{
+    filter: brightness(2);
+}
+
+img.myImage2{
+    width: 70px;
+    height: 70px;
+}
+
+img.myImage2:hover{
+    filter: brightness(2);
+}

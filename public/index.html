@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Casitas :p</title>
+    <link rel="stylesheet"  href="estilos.css">
+</head>
+<body id="body">
+    <div id="divDescripcion" class="descripcion">
+        <p id="descripcion" class="text" >Descripción</p>
+        <button class="myButton3" onclick="tomar_objeto()">Tomar</button>
+        <button class="myButton3" onclick="cerrar_descripcion()">Dejar</button>
+    </div>
+    <div id="contInventario" class="descripcion">
+        <div id="divInventario"></div>
+        <div class="buttonDiv">
+            <button id="dejarObjButton" class="myButton3" onclick="dejar_obj()">Dejar</button>
+            <button class="myButton3" onclick="cerrar_inventario()">Cerrar</button>
+        </div>
+        
+    </div>
+    <div  class="divText">
+        <p id="text" class="text">Casa de Mauricio</p>
+    </div>
+    
+    <div class="bottonDiv">
+        <button class="myButton" onclick="mover_izquierda()"> < </button>
+        <button class="myButton" onclick="mover_derecha()"> > </button>
+    </div>
+
+    <div class="bottonDivLeft">
+        <button id="botonEntrar" class="myButton2" onclick="entrar_casa()"> Entrar </button>
+        <button id="botonSalir" class="myButton2" style="display: none;" onclick="salir_casa()"> Salir </button>
+    </div>
+
+    <div class="topDiv">
+        <button class="myButton4" onclick="mostrar_inventario()"> Inventario </button>
+        <p id="ganancias" style="font-weight: 1000;">Ganancias: $0</p>
+    </div>
+
+    <script src="fondo.js"></script>
+</body>
+</html>

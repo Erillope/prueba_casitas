@@ -1,0 +1,10 @@
+osito,osito.png,Osito de peluche infantil,5.3,0,0
+dinero10,dinero.png,10 dolares en efectivo,10,0,0
+dinero20,dinero.png,20 dolares en efectivo,20,0,0
+dinero50,dinero.png,50 dolares en efectivo,50,0,0
+dinero100,dinero.png,100 dolares en efectivo,100,0,0
+celular,celular.png,Iphon ultima generacion,150,0,0
+escoba,escoba.png,Escoba sucia,1,0,0
+coca cola,cola.png,Rica coquita,0,0,0
+pantalla,pantalla.png,Pantalla alta resolucion,200,0,0
+poster firmado,poster.png,Poster firmado por una celebridad. Su precio podria ser invaluable,0,0,0
